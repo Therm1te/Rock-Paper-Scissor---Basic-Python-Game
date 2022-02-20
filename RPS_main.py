@@ -1,4 +1,4 @@
-#Rock, Paper, Scissor Game made through the help of Harry bhai and a little bit of my innovation
+#Rock, Paper, Scissor Game
 import random
 
 def PlayerGameWin(C1, P1):
